@@ -5,5 +5,5 @@ The project is a cryptography tool.
 
 All instructions for use and testing can be found in the documentation. It is recommended to open it first and follow the steps.
 
-Fabien Ruf
+FR Ninyo
 20.12.2019
