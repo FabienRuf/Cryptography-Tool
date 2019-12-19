@@ -1,4 +1,4 @@
-<h1><Cryptography Tool<h1>
+<h1><Cryptography Tool<\h1>
 
 This is my submission for the course Skill: Programming - Introduction Level in the fall of 2019 at the University of St.Gallen.
 
