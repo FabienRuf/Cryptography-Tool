@@ -1,0 +1,21 @@
+This is an example text to see if it is possible to encrypt and derypt it. 
+You can open the programm, load this file directly an encrypt it.
+You will see the outcome directly, but can also save it as another .txt file.
+
+Password Mail: thisisanexamplepassword1234411
+
+PIN Mobile: 999981717
+PIN Bank Account: 1234567890
+
+What else must be kept secret?
+
+Allowed characters to crypt:
+alphabet, numbers, ,.!?:-_"'% , blank character, enter key and umlauts, 
+but they cannot be imported because python cannot read them from a text file!!! 
+But they can be used if you type directly into the input.
+
+Generally every character can be put in code, without any other changes in the code to do.
+
+There are two characters reserved for the functioning of the code.
+
+
