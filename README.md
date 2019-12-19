@@ -1,9 +1,9 @@
-This is my python project for the course 
-Skill: Programming - Introduction Level.
+<h1><Cryptography Toolh1>
 
-The project is a cryptography tool.
+This is my submission for the course Skill: Programming - Introduction Level in the fall of 2019 at the University of St.Gallen.
 
 All instructions for use and testing can be found in the documentation. It is recommended to open it first and follow the steps.
 
 FR Ninyo
 20.12.2019
+
